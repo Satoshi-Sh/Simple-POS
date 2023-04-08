@@ -49,11 +49,11 @@ This application gives simpe POS system to anyone. Program reads a menu Json fil
 
 #### Make a new restaurant 
 Make restaurnt_name.json files in the menues folder and the sales_records folider.
-Make a Menu File with empty dictionary
+##### Make a Menu File with empty dictionary
 ```
 {}
 ```
-Make a Record File 
+##### Make a Record File 
 ```
 {
     "orders": [
