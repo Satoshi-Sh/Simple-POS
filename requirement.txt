@@ -1,2 +1,2 @@
 PYQT5
-pytest for test
+pytest

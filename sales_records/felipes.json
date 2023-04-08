@@ -1,0 +1,35 @@
+{
+    "orders": [
+        {
+            "items": {
+                "Baja Taco: $7.5": 1
+            },
+            "total": 8.25,
+            "time": "04-08-2023 16:24:04",
+            "cash": false,
+            "comment": ""
+        },
+        {
+            "items": {
+                "Baja Taco: $7.5": 1,
+                "Burrito: $7.5": 1,
+                "Bowl: $8.5": 1
+            },
+            "total": 25.85,
+            "time": "04-08-2023 16:24:38",
+            "cash": true,
+            "comment": ""
+        },
+        {
+            "items": {
+                "Baja Taco: $7.5": 1,
+                "Burrito: $7.5": 1,
+                "Flan: $4.0": 1
+            },
+            "total": 20.9,
+            "time": "04-08-2023 16:25:13",
+            "cash": false,
+            "comment": "Customer asked for extra cilantroes."
+        }
+    ]
+}

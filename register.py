@@ -178,7 +178,7 @@ class Ui_MainWindow(object):
         self.next.setText(_translate("MainWindow", "Next"))
         self.back.setText(_translate("MainWindow", "Back"))
         self.toolBar.setWindowTitle(_translate("MainWindow", "toolBar"))
-        self.actionnote.setText(_translate("MainWindow", "note"))
+        self.actionnote.setText(_translate("MainWindow", "Note"))
         self.actionClose.setText(_translate("MainWindow", "Close"))
     # to remove an item
     def delete_on(self):
