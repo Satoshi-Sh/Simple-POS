@@ -14,9 +14,9 @@ This application gives simpe POS system to anyone. Program reads a menu Json fil
 ## How to Use
 #### setup environment
 ##### After making a env folder and activate it, 
-`pip install -r requirement.text`
+`$pip install -r requirement.text`
 ##### Use the sample menu 
-`python3 projects.py felipes.json`
+`$python3 projects.py felipes.json`
 
 #### Format of Menu File 
 ```
